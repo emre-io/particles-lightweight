@@ -10,7 +10,7 @@ function App() {
   return (
     <div className="App">
       <div id="particles-js"></div>
-        <div className="flex flex-col h-screen justify-center">
+        {/* <div className="flex flex-col h-screen justify-center">
           <p className="text-white text-3xl font-bold underline">Emre Sahin</p>
           <p className="text-white font-bold py-2">About me</p>
           <div className="flex flex-row">
@@ -42,8 +42,7 @@ function App() {
               </button>
             </div>
           </div>
-        </div>
-     
+        </div> */}
     </div>
   );
 }
