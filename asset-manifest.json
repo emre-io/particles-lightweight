@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/www.esahin63.github.io/particles-lightweight/static/css/main.4399dd0a.css",
-    "main.js": "/www.esahin63.github.io/particles-lightweight/static/js/main.1a09dc89.js",
-    "static/js/453.71692106.chunk.js": "/www.esahin63.github.io/particles-lightweight/static/js/453.71692106.chunk.js",
-    "index.html": "/www.esahin63.github.io/particles-lightweight/index.html",
-    "main.4399dd0a.css.map": "/www.esahin63.github.io/particles-lightweight/static/css/main.4399dd0a.css.map",
-    "main.1a09dc89.js.map": "/www.esahin63.github.io/particles-lightweight/static/js/main.1a09dc89.js.map",
-    "453.71692106.chunk.js.map": "/www.esahin63.github.io/particles-lightweight/static/js/453.71692106.chunk.js.map"
+    "main.css": "/static/css/main.4399dd0a.css",
+    "main.js": "/static/js/main.a4c3f768.js",
+    "static/js/453.71692106.chunk.js": "/static/js/453.71692106.chunk.js",
+    "index.html": "/index.html",
+    "main.4399dd0a.css.map": "/static/css/main.4399dd0a.css.map",
+    "main.a4c3f768.js.map": "/static/js/main.a4c3f768.js.map",
+    "453.71692106.chunk.js.map": "/static/js/453.71692106.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.4399dd0a.css",
-    "static/js/main.1a09dc89.js"
+    "static/js/main.a4c3f768.js"
   ]
 }
