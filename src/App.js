@@ -1,23 +1,15 @@
-import logo from './logo.svg';
 import './App.css';
+import 'particles.js/particles';
 
-function App() {
+function App() {  
+  /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */
+  window.particlesJS.load('particles-js', 'particles.json', function() {
+    console.log('callback - particles.js config loaded')
+  })
+
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <div id="particles-js"></div>
     </div>
   );
 }
