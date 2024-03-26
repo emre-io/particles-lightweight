@@ -1,5 +1,5 @@
 import './App.css';
-import 'particles.js/particles';
+//import 'particles.js/particles';
 
 function App() {  
   /* particlesJS.load(@dom-id, @path-json, @callback (optional)); */

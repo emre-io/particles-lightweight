@@ -1,7 +1,6 @@
 {
   "name": "lightweight-particles",
   "version": "0.1.0",
-  "hompage": "https://esahin63.github.io/particles-lightweight/",
   "private": true,
   "predeploy": "npm run build",
   "deploy": "gh-pages -d build",
@@ -41,5 +40,8 @@
       "last 1 firefox version",
       "last 1 safari version"
     ]
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.4.1"
   }
 }
