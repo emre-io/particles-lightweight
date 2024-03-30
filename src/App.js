@@ -29,7 +29,7 @@ function App() {
           </div>
           <div className="justify-center items-center py-3">
             <div className="space-x-4">
-              <a href="https://www.github.com/esahin63">
+              <a href="https://www.github.com/emre-io">
                 <button className="bg-white rounded-md px-4 py-1">
                   {" "}
                   Github
