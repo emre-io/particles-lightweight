@@ -15,11 +15,6 @@ function App() {
           <div className="md:basis-1/3 basis-1/12"></div>
           <div className="md:basis-1/3 basis-10/12">
             <div className="text-justify">
-              <p className="text-white ">
-                Hello, I am refreshing my software
-                engineering skills by coding small projects. My projects are
-                available in my Github profile, which is linked below this text.
-              </p>
             </div>
           </div>
           <div className="md:basis-1/3 basis-1/12"></div>
